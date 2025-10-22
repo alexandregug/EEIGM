@@ -1,0 +1,3 @@
+from google.colab import files # load skimage libraries
+import io
+uploaded = files.upload()
